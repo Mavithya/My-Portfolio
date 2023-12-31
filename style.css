@@ -460,11 +460,15 @@ section {
     .home-img img {
         width: 70vw;
         margin-top: 4rem;
+        margin-right: 140px;
 
     }
     .about {
         flex-direction: column-reverse;
     }
+     .about-content{
+         margin-left: 60px;
+     }
     .about img {
         width: 70vw;
         margin-top: 4rem;
